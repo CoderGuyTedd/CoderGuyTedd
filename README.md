@@ -1,5 +1,5 @@
 # About Me:
-Hi, im CoderGuyTedd and im a python/godot dev.
+Hi, im CoderGuyTedd and im a python/godot dev.and gd mode sometimes 
 [![](https://visitcount.itsvg.in/api?id=CoderGuyTedd&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
